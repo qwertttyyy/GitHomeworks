@@ -3,7 +3,7 @@
 
 ## Задание:
 
-1. Склонируйте репозиторий: https://github.com/qwertttyyy/GitHomeworks
+1. Склонируйте репозиторий: `git@github.com:qwertttyyy/GitHomeworks.git`
 
 2. Создайте новую ветку с вашим именем:
 
